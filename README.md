@@ -1,5 +1,3 @@
-# index.html
-my website
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -30,8 +28,8 @@ my website
     </P>
     <h3>MORE INFORMATION</h3>
     <P>
-    <a href="mail to:mbuvitheresia1@gmail.com"/></a>mbuvitheresia1@gmail.com</a></br>
-        <a href="tell to:0769528955"/></P>0769528955</body>
+    Email:<a href="mail to:mbuvitheresia1@gmail.com/"></a>mbuvitheresia1@gmail.com</a><br>
+    Phone:<a href="tell:+254769528955/"></a>0769528955</a><br>
     </P>
  <a href="https://mbuvitheresia1-rgb.github.io/theresia-mbuvi.github.com/">click here to visit my portfolio</a>
  <style>
