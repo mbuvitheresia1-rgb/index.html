@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta THERESIA KAMWETHYA MBUVI="UTF-8">
