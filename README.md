@@ -5,7 +5,7 @@
     Her parents are ,Joseph and Christine.
     hobbies:DAncing and passionate about music.
     Her name is THERESIA KAMWETHYA MBUVI.
-    (https://github.com/user-attachments/assets/6b8472b0-5738-4550-909a-26f8b56b49b4)
+  <a href="https://github.com/user-attachments/assets/6b8472b0-5738-4550-909a-26f8b56b49b4/">
 
     she joined a private school and had her primary education there,later she joined secondary school in a National schhol.
     She is currently doing her degree at a World class university:MERU UNIVERSITY OF SCIENCE AND TECHNOLOGY
