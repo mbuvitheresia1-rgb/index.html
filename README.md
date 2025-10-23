@@ -16,12 +16,8 @@
      ![20250927_134120](https://github.com/user-attachments/assets/8574124d-cf78-4ea4-b02d-19d6421f50e4)
  
     she joined a private school and had her primary education there,later she joined secondary school in a National schhol.
-    She is currently doing her degree at a World class university:MERU UNIVERSITY OF SCIENCE AND TECHNOLOGY.![meru university (2)](https://github.com/user-attachments/assets/5a66fa5f-1cbb-45e9-99be-4d310a5c5b46)
-
-    
-<img src="../20250927_134120.jpg" alt="20250927_134120" width="200" height="200" loading="lazy">
-<img src="../meru university (2).jpg" alt="meru university logo" width="200" height="200" loading="lazy">
-</P>
+    She is currently doing her degree at a World class university:MERU UNIVERSITY OF SCIENCE AND TECHNOLOGY
+    ![meru university (2)](https://github.com/user-attachments/assets/5a66fa5f-1cbb-45e9-99be-4d310a5c5b46)
 <h2>SKILLS GAINED</h2>
 <P>My course involves the technology and so I have to keep up with the trends and chenges
     hapenning in this industry.
