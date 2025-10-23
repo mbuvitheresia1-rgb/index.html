@@ -1,15 +1,17 @@
 
  <h1>ABOUT ME</h1>
  <P>she is a girl born in the year of 2005,at the precious PMH,Nairobi.
-    she is a girl among a family of four 
+    she is  a girl among a family of four 
     Her parents are ,Joseph and Christine.
     hobbies:DAncing and passionate about music.
   Her name is THERESIA KAMWETHYA MBUVI
-  20250927_134120.jpg
+ 
+[20250927_134120](https://github.com/user-attachments/assets/100f1fdd-821c-4612-b50d-0f416b72e011)
 
     she joined a private school and had her primary education there,later she joined secondary school in a National schhol.
     She is currently doing her degree at a World class university:MERU UNIVERSITY OF SCIENCE AND TECHNOLOGY
-    (https://github.com/user-attachments/assets/5a66fa5f-1cbb-45e9-99be-4d310a5c5b46)
+    [meru university (2)](https://github.com/user-attachments/assets/64e10e07-66ce-42d6-9cdf-4ef9e8e42411)
+
 <h2>SKILLS GAINED</h2>
 <P>My course involves the technology and so I have to keep up with the trends and chenges
     hapenning in this industry.
