@@ -28,8 +28,8 @@
     </P>
     <h3>MORE INFORMATION</h3>
     <P>
-    Email:<a href="mail to:mbuvitheresia1@gmail.com/"></a>mbuvitheresia1@gmail.com</a><br>
-    Phone:<a href="tell:+254769528955/"></a>0769528955</a><br>
+    Email:<a href="mail to:mbuvitheresia1@gmail.com/"></a>mbuvitheresia1@gmail.com<br>
+    Phone:<a href="tell:+254769528955/"></a>0769528955<br>
     </P>
  <a href="https://mbuvitheresia1-rgb.github.io/theresia-mbuvi.github.com/">click here to visit my portfolio</a>
  <style>
