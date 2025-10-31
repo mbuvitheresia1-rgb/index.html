@@ -9,10 +9,10 @@
 <img src="https://github.com/mbuvitheresia1-rgb/index.html/blob/main/20250927_134120.jpg"> alt="my project Image" width="400"
     she joined a private school and had her primary education there,later she joined secondary school in a National schhol.
     She is currently doing her degree at a World class university:MERU UNIVERSITY OF SCIENCE AND TECHNOLOGY
-  ![meru university (2)](https://github.com/user-attachments/assets/65213ceb-2544-4e7f-96f1-1539a9549173)
 
 
-<h2>SKILLS GAINED</h2>
+<img src="https://github.com/mbuvitheresia1-rgb/index.html/commit/acdd213edfa9da3cc1aba0ba6933c8b37e7c4314"> alt ="my project image" width="400"
+ <h2>SKILLS GAINED</h2>
 <P>My course involves the technology and so I have to keep up with the trends and chenges
     hapenning in this industry.
     SO far I have been able to learn c,html,kotlin.
