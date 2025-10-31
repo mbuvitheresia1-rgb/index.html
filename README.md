@@ -6,10 +6,10 @@
     hobbies:DAncing and passionate about music.
   Her name is THERESIA KAMWETHYA MBUVI.
 
-<img src="https://github.com/mbuvitheresia1-rgb/index.html/blob/main/20250927_134120.jpg"> alt="my project Image" width="400"
+<img src="https://github.com/mbuvitheresia1-rgb/index.html/blob/main/20250927_134120.jpg"> 
     she joined a private school and had her primary education there,later she joined secondary school in a National schhol.
     She is currently doing her degree at a World class university:MERU UNIVERSITY OF SCIENCE AND TECHNOLOGY
-<img src="https://github.com/mbuvitheresia1-rgb/index.html/blob/main/meru%20university%20(2).jpg"> alt="my project file" width="400"
+<img src="https://github.com/mbuvitheresia1-rgb/index.html/blob/main/meru%20university%20(2).jpg"> 
  <h2>SKILLS GAINED</h2>
 <P>My course involves the technology and so I have to keep up with the trends and chenges
     hapenning in this industry.
